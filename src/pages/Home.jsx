@@ -25,7 +25,7 @@ import Button from "../Commponen/button";
 
 
 function Home() {
-    const rowOne = [{ img: Kabasaran, name: "Kabasaran", type: "Tarian", adress: "Minahasa" },
+    const rowOne = [{ img: Kabasaran, name: "Kabasaran", type: "Tarian", adress: "Minahasa", },
     { img: Masamper, name: "Masamper", type: "Tarian", adress: "Minahasa" },
     { img: Maengket, name: "Maengket", type: "Tarian", adress: "Minahasa" },
     { img: Maselai, name: "Maselai", type: "Tarian", adress: "Sangihe" }]
