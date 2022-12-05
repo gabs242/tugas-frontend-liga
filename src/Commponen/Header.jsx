@@ -14,7 +14,11 @@ const Header = () => {
                             <Link to='./'>
                                 Home
                             </Link>
-                            About
+
+                            <Link>
+                                 About
+                            </Link>
+                            
                             <Link to='./kabasaran'>
                                 Recomendation
                             </Link>
