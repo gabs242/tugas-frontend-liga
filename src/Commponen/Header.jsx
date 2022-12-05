@@ -10,11 +10,15 @@ const Header = () => {
                 <div>
                     <img src={Vector} alt="Vector" class="md:hidden" />
                     <nav class="hidden md:block md:text-[18px]">
-                        <ul class="flex space-x-4 font-[inter]">
+                        <ul class="flex space-x-4 font-semibold">
                             <Link to='./'>
                                 Home
                             </Link>
-                            About
+
+                            <Link>
+                                About
+                            </Link>
+
                             <Link to='./kabasaran'>
                                 Recomendation
                             </Link>

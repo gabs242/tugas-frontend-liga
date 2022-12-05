@@ -12,7 +12,7 @@ const Profile = ({name, imgIg, imgFb, imgWa, imgEmail, ig, fb, wa, email}) => {
             </div>
 
         <div class=" flex space-x-2">
-                <div className="py-1 space-y-2">
+                <div className="py-2 space-y-4">
                     <img src={imgIg} alt="" className="w-[18px]"/>
                     <img src={imgFb} alt="" className="w-[18px]"/>
                     <img src={imgWa} alt="" className="w-[18px]"/>
