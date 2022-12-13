@@ -32,7 +32,7 @@ function Home() {
             </div>
 
             <div class="bg-[#2D2828] m-6 md:m-14 rounded-t-xl">
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./kabasaran'>
                         <Button/>
@@ -40,21 +40,21 @@ function Home() {
                 </div> 
                
 
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./Maengket'>
                         <Button/>
                     </Link>
                 </div>
 
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./Masamper'>
                         <Button/>
                     </Link>
                 </div>
 
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./Maselai'>
                         <Button/>
@@ -64,14 +64,14 @@ function Home() {
             </div>
 
             <div class="bg-[#2D2828] m-6 md:m-14">
-                    <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                    <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                         <Budaya/>
                         <Link to='./Kolintang'>
                             <Button/>
                         </Link>
                     </div>     
 
-                    <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                    <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                         <Budaya/>
                         <Link to='./MusikBambu'>
                             <Button/>
@@ -80,14 +80,14 @@ function Home() {
             </div>
 
             <div class="bg-[#2D2828] m-6 md:m-14 rounded-b-xl">
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./RumahAdat'>
                         <Button/>
                     </Link>
                 </div>     
 
-                <div className="flex py-8 px-10 w-max mx-auto space-x-6">
+                <div className="flex py-8 px-10 w-max mx-auto space-x-2 md:space-x-6">
                     <Budaya/>
                     <Link to='./Waruga'>
                         <Button/>
