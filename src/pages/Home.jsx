@@ -12,10 +12,6 @@ import Button from "../Commponen/button";
 import Budaya from "../Commponen/Budaya";
 
 
-
-
-
-
 function Home() {
    
     const rowFour = [{ name: "Gabriel Tumewu", imgIg: Instagram, imgFb: Facebook, imgWa: Whatsapp, imgEmail: Email, ig: "g_tumewu", fb: "Gabriel Tumewu", wa: "082124714475", email: "tumewujibril@gamil.com" }]

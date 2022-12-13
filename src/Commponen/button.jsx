@@ -1,7 +1,7 @@
 import React from "react";
 
 const Button = () => {
-    return(
+    return (
         <div>
             <div class="text-white font-[Red Hat Display]">
                 <p class="font-semibold text-[16px] md:text-[40px]">Kabasaran</p>
