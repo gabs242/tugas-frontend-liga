@@ -14,7 +14,6 @@ function MaengketPage() {
             <p class="text-white mx-auto w- mt-7 text-justify px-2">
                 Maengket atau Tari Maengket Adalah tari tradisional suku Minahasa (orang Sulawesi Utara) yang dari Zaman dulu kala sampai saat ini masih berkembang. Tari Maengket sudah ada ditanah Minahasa sejak rakyat Minahasa mengenal pertanian. Tarian maengket dilakukan pada saat sedang panen hasil pertanian dengan gerakan-gerakan sederhana. Sekarang tarian Maengket telah berkembang teristimewa bentuk dan tarinya tanpa meninggalkan keasliannya. Kata maengket terdiri dari awalan ma dengan kata dasar engket. Kata ma berarti sedang melaksanakan dan engket artinya mengangkat tumit naik turun sesuai lagu.
 
-
             </p>
 
             <p class="text-white mx-auto w- mt-7 text-justify px-2">

@@ -15,7 +15,7 @@ const Header = () => {
                                 Home
                             </Link>
 
-                            <Link>
+                            <Link to='./About'>
                                 About
                             </Link>
 
